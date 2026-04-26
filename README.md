@@ -75,15 +75,13 @@ Open browser:
 http://13.127.8.53/
 ```
 
----
-
 ## 📸 Screenshots
 
-![UI](./images/ui.png)
+![UI](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/ui.png) 
 
-![Deployment](./images/deploy.png)
+![Deployment](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/deploy.png)
 
-![Terminal](./images/terminal.png)
+![Terminal](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/terminal.png)
 
 ## 📊 Learning Outcomes
 
