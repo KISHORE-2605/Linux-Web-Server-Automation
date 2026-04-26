@@ -72,7 +72,7 @@ sudo vi /var/www/html/index.html
 Open browser:
 
 ```
-http://(http://13.127.8.53/)
+http://13.127.8.53/
 ```
 
 ---
