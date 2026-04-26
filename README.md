@@ -61,11 +61,12 @@ sudo yum install httpd -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 ```
-
+```bash
 ### 5️⃣ Deploy Web Page
 
 sudo vi /var/www/html/index.html
-
+```
+```bash
 ### 6️⃣ Access Website
 
 Open browser:
