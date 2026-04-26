@@ -81,22 +81,9 @@ http://your-public-ip
 ---
 
 ## 📸 Screenshots
-
-Add your screenshots here:
-
-* 🖥️ Web UI
-* ✅ Deployment Success Message
-* 💻 Apache Installation (Terminal)
-
-Example:
-
-```md
 ![UI](images/ui.png)
 ![Deployment](images/deploy.png)
 ![Terminal](images/terminal.png)
-```
-
----
 
 ## 📊 Learning Outcomes
 
