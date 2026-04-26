@@ -53,7 +53,7 @@ ssh -i your-key.pem ec2-user@your-public-ip
 ```bash
 sudo yum update -y
 sudo yum install httpd -y
-```
+...
 
 ### 4️⃣ Start Web Server
 
@@ -64,18 +64,14 @@ sudo systemctl enable httpd
 
 ### 5️⃣ Deploy Web Page
 
-```bash
 sudo vi /var/www/html/index.html
-```
-
-Paste your HTML code and save.
 
 ### 6️⃣ Access Website
 
 Open browser:
 
 ```
-http://your-public-ip
+http://(http://13.127.8.53/)
 ```
 
 ---
