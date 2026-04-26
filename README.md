@@ -84,6 +84,7 @@ http://13.127.8.53/
 ![Deployment](./images/deploy.png)
 
 ![Terminal](./images/terminal.png)
+
 ## 📊 Learning Outcomes
 
 * Understanding Linux server setup
