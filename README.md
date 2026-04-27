@@ -77,11 +77,11 @@ http://13.127.8.53/
 
 ## 📸 Screenshots
 
+![Terminal](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/terminal.png)
+
 ![UI](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/ui.png) 
 
 ![Deployment](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/deploy.png)
-
-![Terminal](https://raw.githubusercontent.com/kishore-2605/Linux-Web-Server-Automation/main/images/terminal.png)
 
 ## 📊 Learning Outcomes
 
