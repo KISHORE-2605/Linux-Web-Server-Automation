@@ -71,7 +71,7 @@ sudo vi /var/www/html/index.html
 
 Open browser:
 
-```
+```bash
 http://13.127.8.53/
 ```
 
